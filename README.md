@@ -63,12 +63,14 @@ Al Falah is an e-commerce business selling Clothing, Electronics, and Furniture 
 ## 📁 Repository Structure
 
 ```
-├── Al_Falah_Sales_Dashboard.pbix   # Power BI file
+├── AL-FALAH-ECOMMERCE-DASHBOARD.pbix
+├── README.md
+├── LICENSE
 ├── data/
-│   └── sales_data.xlsx             # Dataset (or sample)
-├── images/
-│   └── dashboard.png               # Dashboard screenshot
-└── README.md
+│   ├── Orders.csv
+│   └── Details.csv
+└── images/
+    └── dashboard.png
 ```
 
 ---
