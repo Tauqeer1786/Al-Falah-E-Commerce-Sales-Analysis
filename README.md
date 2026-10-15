@@ -43,8 +43,8 @@ Al Falah is an e-commerce business selling Clothing, Electronics, and Furniture 
 
 - **Power BI Desktop**
 - **Power Query** – data cleaning and transformation
-- **DAX** – calculated measures (Total Sales, Total Profit, AOV, etc.)
-- **Data Modeling** – [add details, e.g., star schema with fact and dimension tables]
+- **DAX** – calculated measures (Total Sales, Total Profit, Quantity, AOV)
+- **Data Modeling** – connected the Orders and Details tables for analysis
 - **Data Visualization** – KPI cards, bar charts, donut charts, slicers
 
 ---
@@ -63,7 +63,7 @@ Al Falah is an e-commerce business selling Clothing, Electronics, and Furniture 
 ## 📁 Repository Structure
 
 ```
-├── AL-FALAH-ECOMMERCE-DASHBOARD.pbix
+├── AL-FALAH-ECOMMERCE-DASHBOARD.pbix   # Power BI dashboard file
 ├── README.md
 ├── LICENSE
 ├── data/
@@ -78,8 +78,8 @@ Al Falah is an e-commerce business selling Clothing, Electronics, and Furniture 
 ## 🚀 How to Use
 
 1. Clone or download this repository.
-2. Open `Al_Falah_Sales_Dashboard.pbix` in **Power BI Desktop**.
-3. If prompted, update the data source path to point to the file in the `data/` folder.
+2. Open `AL-FALAH-ECOMMERCE-DASHBOARD.pbix` in **Power BI Desktop**.
+3. If prompted, update the data source path to point to the files in the `data/` folder.
 4. Use the quarter slicers and dropdown filter to explore the data.
 
 ---
@@ -96,9 +96,10 @@ Al Falah is an e-commerce business selling Clothing, Electronics, and Furniture 
 ## 👤 Author
 
 **Shaikh Tauqeer**
-📧 [shaikhtauqeer1786@gmail.com](mailto:shaikhtauqeer1786@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/shaikhtauqeer)
-💻 [GitHub](https://github.com/Tauqeer1786)
+
+- 📧 Email: [shaikhtauqeer1786@gmail.com](mailto:shaikhtauqeer1786@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/shaikhtauqeer](https://www.linkedin.com/in/shaikhtauqeer)
+- 💻 GitHub: [github.com/Tauqeer1786](https://github.com/Tauqeer1786)
 
 ---
 
